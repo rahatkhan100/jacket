@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand img{
+    height: 50px;
+    width: 290px;
+}
+
+.nav-item a{
+    font-size: 18px;
+
+}
+
+.nav-item{
+    padding-right: 14px;
+}
+
+.winter{
+    color: #222;
+}
+.daty{
+    height: 378px;
+    width: 250px;
+   margin-left: 60px;
+}
